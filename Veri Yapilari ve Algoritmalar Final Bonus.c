@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Baran Arda Banarlý
+// Baran Arda Banarli
 // 2420161079
 // https://www.btkakademi.gov.tr/portal/certificate/validate?certificateId=9XrtzwD6vo
 
