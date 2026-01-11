@@ -18,6 +18,9 @@ void takas(int *ap, int *bp) {
 	*bp = gecici;
 }
 
+// baloncuk siralama optimizasyonu
+// takas olup olmadigi kontrol edilerek
+// daha az iterasyon gerceklesmesi saglanabilir
 void baloncuk_sirala(int dizi[], int BOYUT) {
 	int i, j;
 	int takas_oldu;
